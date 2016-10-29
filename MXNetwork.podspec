@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   #s.exclude_files = 'MXNetwork/Vender'
 
   s.framework = "CFNetwork"
-  s.dependency "AFNetworking", "~> 3.0"
+  #s.dependency "AFNetworking", "~> 3.0"
 
 end
