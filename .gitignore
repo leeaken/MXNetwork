@@ -42,6 +42,8 @@ xcuserdata/
 
 Carthage/Build
 
+Cartfile/
+
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the 
@@ -56,5 +58,6 @@ fastlane/screenshots
 #
 # After new code Injection tools there's a generated folder /iOSInjectionProject
 # https://github.com/johnno1962/injectionforxcode
+
 
 iOSInjectionProject/
